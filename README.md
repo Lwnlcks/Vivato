@@ -1,12 +1,11 @@
-![VientoEngine](https://user-images.githubusercontent.com/65072459/103525598-cfb06d00-4ec2-11eb-9b06-192e05fb2096.png)
+![VivatoEngine](https://user-images.githubusercontent.com/72176091/160099100-0903cdfc-6182-4d7a-800a-702f4e70039e.png)
 
-<img src="https://img.shields.io/pypi/pyversions/Sanic"/> <img src="https://img.shields.io/badge/license-BSD%203--Clause-informational"/> <img src="https://img.shields.io/badge/Progress-5%25-informational"/>
+<img src="https://img.shields.io/badge/license-BSD%203--Clause-informational"/>
+
 ## VientoEngine
-VientoEngine은 Python 기반의 [오픈나무](https://github.com/2du/openNAMU)와 호환되는 '빠르고, 비동기적인' 나무마크 지원 위키 엔진입니다.
+VivatoEngine은 개발이 중단된 VientoEngine의 개조 프로젝트이며, Python 기반의 [오픈나무](https://github.com/2du/openNAMU)와 호환되는 '빠르고, 비동기적인' 나무마크 지원 위키 엔진입니다.
 
-Sanic과 aiosqlite를 사용하며, 오픈나무 3.2.0 버전과 호환됩니다.
-
-아직 개발 중이므로 실제 위키에 적용해도 사용이 거의 불가능합니다.
+개발 중의 가이드라인은 정확하지 않을 수 
 
 ### TOC
  * [시작](#시작)
@@ -15,16 +14,6 @@ Sanic과 aiosqlite를 사용하며, 오픈나무 3.2.0 버전과 호환됩니다
  * [라이선스](#라이선스)
  * [오픈나무](#오픈나무)
  * [기타](#기타)
-
-## 시작
-VientoEngine은 Python 3 기반 애플리케이션이며, Python 3.7 이상 버전이 동작하는 환경이 필요합니다.
-
-자세한 내용은 [설치 가이드](https://viento.badawiki.site#main2)를 참조하세요.
-
-## 기여
-VientoEngine에는 버그나 여러 문제점이 존재할 수 있습니다. [이슈 트래커](https://github.com/BadaWikiDev/VientoEngine/issues)에 보고하여 완성도를 높이는 데 도움을 줄 수 있습니다. 직접 새로운 기능을 추가하거나, 버그를 고치는 등의 코드 수정도 [Pull requests](https://github.com/BadaWikiDev/VientoEngine/pulls)로 가능합니다.
-
-VientoEngine에는 확장 기능이 존재합니다. 확장 기능 스토어에서 직접 제작한 확장 기능을 공유할 수도 있습니다.
 
 ## 지원
  * 문법
@@ -35,10 +24,9 @@ VientoEngine에는 확장 기능이 존재합니다. 확장 기능 스토어에�
      
  * DB
      * sqlite
-     * ~~MySQL~~ (예정)
 
 ## 라이선스
-VientoEngine은 BSD 3-Clause License 라이선스로 보호받고 있습니다. VientoEngine을 사용할 때는 반드시 라이선스를 준수해야 하며, 위반할 시 법적 조치가 따를 수 있습니다. 포함된 코드는 아래 목록을 참조하시기 바랍니다.
+VivatoEngine은 BSD 3-Clause License 라이선스로 보호받고 있습니다. VivatoEngine은 사용할 때는 반드시 라이선스를 준수해야 하며, 위반할 시 법적 조치가 따를 수 있습니다. 포함된 코드는 아래 목록을 참조하시기 바랍니다.
 
  * [openNAMU](https://github.com/2du/openNAMU)
  * [highlightjs](https://highlightjs.org)
@@ -49,8 +37,6 @@ VientoEngine은 BSD 3-Clause License 라이선스로 보호받고 있습니다. 
 ## 오픈나무
 VientoEngine은 [오픈나무](https://github.com/2du/openNAMU)와 호환됩니다. 하지만 일부 수정이 필요합니다.
 
-자세한 내용은 [마이그레이션 가이드](https://viento.badawiki.site#main3)를 참조하세요.
 
 ## 기타
- * [공식 사이트](https://viento.badawiki.site/)
- * [기여자 목록](https://github.com/BadaWikiDev/VientoEngine/graphs/contributors)
+ * [기여자 목록](https://github.com/Lwnlcks/Vivato/graphs/contributors)

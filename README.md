@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/license-BSD%203--Clause-informational"/>
 
-## VientoEngine
+## VivatoEngine
 VivatoEngine은 개발이 중단된 VientoEngine의 개조 프로젝트이며, Python 기반의 [오픈나무](https://github.com/2du/openNAMU)와 호환되는 '빠르고, 비동기적인' 나무마크 지원 위키 엔진입니다.
 
 개발 중의 가이드라인은 정확하지 않을 수 

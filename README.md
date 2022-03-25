@@ -9,8 +9,6 @@ Python 기반의 [오픈나무](https://github.com/2du/openNAMU)와 호환되는
 개발 중의 가이드라인은 정확하지 않을 수도 있습니다
 
 ### TOC
- * [시작](#시작)
- * [기여](#기여)
  * [지원](#지원)
  * [라이선스](#라이선스)
  * [오픈나무](#오픈나무)
@@ -36,7 +34,7 @@ VivatoEngine은 BSD 3-Clause License 라이선스로 보호받고 있습니다. 
  * [sanic-session](https://github.com/xen/sanic_session)
 
 ## 오픈나무
-VientoEngine은 [오픈나무](https://github.com/2du/openNAMU)와 호환됩니다. 하지만 일부 수정이 필요합니다.
+VivatoEngine은 [오픈나무](https://github.com/2du/openNAMU)와 호환을 목표로 두고 있습니다
 
 
 ## 기타

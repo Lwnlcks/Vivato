@@ -30,8 +30,6 @@ VivatoEngine은 BSD 3-Clause License 라이선스로 보호받고 있습니다. 
  * [openNAMU](https://github.com/2du/openNAMU)
  * [highlightjs](https://highlightjs.org)
  * [MathJax](https://www.mathjax.org/)
- * [sanic-jinja2](https://github.com/lixxu/sanic-jinja2)
- * [sanic-session](https://github.com/xen/sanic_session)
 
 ## 오픈나무
 VivatoEngine은 [오픈나무](https://github.com/2du/openNAMU)와 호환을 목표로 두고 있습니다
